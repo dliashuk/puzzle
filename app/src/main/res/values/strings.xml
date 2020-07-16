@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PRAM_Puzzle</string>
+    <string name="button_start">Start</string>
+    <string name="Image">Image</string>
+    <string name="Finish">Finish</string>
+    <string name="textview">Finish</string>
+</resources>
